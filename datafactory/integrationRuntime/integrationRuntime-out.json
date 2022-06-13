@@ -1,0 +1,6 @@
+{
+	"name": "integrationRuntime-out",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
