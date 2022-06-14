@@ -92,7 +92,7 @@
 				],
 				"outputs": [
 					{
-						"referenceName": "testcopy",
+						"referenceName": "blobBinary2",
 						"type": "DatasetReference"
 					}
 				]
